@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\micorservices.props" />
+</Project>
